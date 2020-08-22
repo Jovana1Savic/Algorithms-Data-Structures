@@ -4,7 +4,6 @@ def split_list(l):
     n = (len(l)) // 2 + (len(l) % 2)
     return l[: n], l[n:]
 
-# Asssumes that polynomials don't differ by more than 1!
 def add_polynomials(p1, p2):
     ret = [a + b for a, b in itertools.zip_longest(p1, p2, fillvalue = 0)]
     return ret
