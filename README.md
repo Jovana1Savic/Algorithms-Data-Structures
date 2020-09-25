@@ -1,2 +1,3 @@
-# AlgorithmsDataStructures
-Algorithms and data structures - includes various practice problems from GeeksForGeeks, LeetCode, ProjectEuler and Coursera. 
+# Algorithms and Data Structures
+
+Includes various problems, most of them as part of Coursera's specialization or from Hacker Rank. 
